@@ -57,19 +57,19 @@ o	View: Student Exam Results
 
 o	View: Course Exam Details
 
-## 5.  Database Accounts and Passwords
-Admin Account:
- Login: AdminLogin
- Password: AdminPassword123
+## •  Database Accounts and Passwords
+o Admin Account:
+ - Login: AdminLogin
+ - Password: AdminPassword123
 
-Training Manager Account:
- Login: TrainingManagerLogin
- Password: ManagerPassword123
+o Training Manager Account:
+ - Login: TrainingManagerLogin
+ - Password: ManagerPassword123
 
-Instructor Account:
- Login: InstructorLogin
- Password: InstructorPassword123
+o Instructor Account:
+ - Login: InstructorLogin
+ - Password: InstructorPassword123
 
-Student Account:
- Login: StudentLogin
- Password: StudentPassword123
+o Student Account:
+ - Login: StudentLogin
+ - Password: StudentPassword123
